@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daiane Matos</h1>
 
- <div>
+ <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaianeM&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeM&layout=compact&langs_count=16"/>
@@ -19,10 +19,12 @@
 ##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "mailto: daianersm2@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/daiane-matos-9963201a5/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/daiane-matos-9963201a5/" /></a>
-</p>
+ 
+<div align="left">
+ <a href = "mailto: daianersm2@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/daiane-matos-9963201a5/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/daiane-matos-9963201a5/" /></a>
+ </p>
+</div>
 
 
 
