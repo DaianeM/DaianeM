@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daiane Matos</h1>
 
-  
-<p><img align="left" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs?username=DaianeM&show_icons=true&locale=en&layout=compact" alt="daianem" /></p>
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaianeM&show_icons=true&locale=en" alt="daianem" /></p>
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaianeM&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeM&layout=compact&langs_count=16"/>
+<div>
 
 ##
 <h3 align="left">Languages and Tools:</h3>
