@@ -1,4 +1,4 @@
-<img src="https://github.com/DaianeM/assets/blob/main/banner.png" width="100%">
+<img src="https://github.com/DaianeM/assets/blob/main/banner2.png" width="100%">
 
 
 **Hi, I'm Daiane! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">**
